@@ -29,4 +29,8 @@ To run the House Prediction Model locally:
 1. Clone or download the repository to your local machine.
 2. Install the required dependencies listed in the 'requirements.txt' file:
    `pip install -r requirments.txt`
-3. Run the Jupyter notebook or Python script to train the model and make predictions.
+4. Run the Jupyter notebook or Python script to train the model and make predictions.
+## Feedback and Support
+If you have any questions, feedback, or need assistance with the House Prediction Model, feel free to reach out to aryan.sinha2002@gmail.com.
+
+
